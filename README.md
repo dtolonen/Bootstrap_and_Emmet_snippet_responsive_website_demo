@@ -1,2 +1,1 @@
-# Bootstrap_and_Emmet_snippet_responsive_website_demo
- 
+Bootstrap and Emmet responsive website demo following Adi Pudila's tutorial on Emmet snippets: https://webdesign.tutsplus.com/articles/build-bootstrap-in-minutes-using-emmet--webdesign-14585
